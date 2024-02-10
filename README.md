@@ -1,5 +1,5 @@
 # PyCon
-PyCon is a simple implementation of Conway's Game of Life with a finite grid size.
+PyCon is a simple implementation of Conway's Game of Life with a finite grid size. Black tiles are live cells, and white tiles are dead cells.
 
 ## Usage
 `python game.py <x> <y> [seed] [tick interval in seconds]`
